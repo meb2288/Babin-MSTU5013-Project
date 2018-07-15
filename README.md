@@ -1,1 +1,10 @@
 # Babin MSTU5013 Project
+
+**Description:** Becca Rosenberg and I will be creating an app that is designed for parents of students. There currently is an application called "Remind," but it only gives out the homework or other announcements that the teacher wishes to give. This application will have a built-in learning process for the parent in order to help them understand the content and skills that go along with the homework. 
+
+- **What is the learning problem that your web-app/experience will solve?**
+    - The learning problem will be to teach the parents what the students are learning. For instance, many times parents (1) don't know what the homework is for the students, and (2) don't know how to help their students with the work - usually since much tine has passed. This app will inform or notify the parents of the homework that the students have, and then it will provide a learning experience for the parents with sources for help on how to best help their students.
+- **What is it that you are going to build (e.g. content, features, and user interactions afforded?)**
+    - We are going to build similar to what was stated above. There will be a sign-up for the parents to complete in order to be involved within the process. Then, the parents will get a notification when there have been updates to the homework. Once notified, they will go to the application, and it will inform them of the homework and provide sources that are quick tutorials or other helpful sources. The parents can choose which source they wish to use. There will also be a questions section, which will go to the teacher.
+- **What kind of data will you need from your users (i.e. taken directly or indirectly - to collect, save, analyze, manipulate, share, etc.) and how will this relate to the user's understanding?**
+    - The data needed will be full name of parent, student, class period of student, email, and cell-phone. This will allow for notifications. Then the parent will assess their knowledge of the content and skills. After, the best sources for their knowledge source will be presented.
